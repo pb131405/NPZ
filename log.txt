@@ -1,0 +1,11 @@
+commit b9937a2bfe702bf4683e7e2d8cca54f2b9a64a26 (HEAD -> master)
+Author: unknown <piotrbialkowski@uczelnia.com>
+Date:   Mon Dec 11 09:17:01 2023 +0100
+
+    "Ignorowanie .docx|
+
+commit 23b3c4272c6adccf6788b283dd28e10353cb6de6 (npz/master)
+Author: unknown <piotrbialkowski@uczelnia.com>
+Date:   Mon Dec 11 08:57:40 2023 +0100
+
+    "ciuchcia"
